@@ -8,7 +8,7 @@
 ##
 
 I love programming, traveling and reading.
-- 🚀 ( Angular  | Javascript | HTML | CSS | Typescript | Java | Spring Boot )
+- 🚀 ( Angular | ReactJS | Javascript | HTML | CSS | Typescript | Java | Spring Boot )
 - 👩‍💻 Software Developer
 - 🎓 Software Enginner Student
 - 💬 I speak Portuguese and English
