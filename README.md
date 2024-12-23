@@ -8,11 +8,9 @@
 ##
 
 I love programming, traveling and reading.
-- 🚀 ( Angular | ReactJS | Javascript | HTML | CSS | Typescript | Java | Spring Boot )
-- 👩‍💻 Software Developer
-- 🎓 Software Enginner Student
+- 🚀 ( Angular | ReactJS | Javascript | HTML | CSS | Typescript | Python | AI | Machine Learning )
+- 👩‍💻 Software Enginner
 - 💬 I speak Portuguese and English
-- 🌐 Web development lover
 <div align="start">
   <a href="https://github.com/DaniOrze">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrze&layout=compact&langs_count=7&theme=omni"/>
